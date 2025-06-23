@@ -1,4 +1,4 @@
-# 🚗 Embedded Vehicle Designs Portfolio
+# 🚗 Vehicle Designs Portfolio
 
 
 
@@ -39,7 +39,7 @@ I'm open to feedback, collaboration, or job opportunities. Feel free to reach ou
 
 - 📧 Email: nishchaysharma1502@gmail.com
 
-- 💼 LinkedIn:https://www.linkedin.com/in/nishchay-sharma-b354a1221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 💼 LinkedIn:  https://www.linkedin.com/in/nishchay-sharma-b354a1221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
