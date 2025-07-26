@@ -20,6 +20,7 @@ This repository is part of my personal portfolio, aiming to:
 
 
 
+
 ## 🛠️ Projects Overview
 
 Each project folder contains:
@@ -31,6 +32,7 @@ Each project folder contains:
 - **Embedded Systems**: Integration of sensors, actuators, and control units.
 
 - **Documentation**: Project reports and design rationales.
+
 
 
 ## 📬 Contact
@@ -50,11 +52,6 @@ Nishchay Sharma
 >B.Tech (Mechanical Engineering)| Gold Medalist — 2024
 
 >Design Engineer
-
-
-
-
-
 
 
 *Thank you for visiting my portfolio!*
