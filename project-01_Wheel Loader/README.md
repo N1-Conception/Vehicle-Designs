@@ -75,6 +75,9 @@ this project is licensed under the MIT license.
 ![Side View](1e.png)
 
 
+
+**Designed by N1 Conception** 
+
 Thanks for viewing!
 
 
