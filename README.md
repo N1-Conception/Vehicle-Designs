@@ -19,8 +19,6 @@ This repository is part of my personal portfolio, aiming to:
 
 
 
-
-
 ## 🛠️ Projects Overview
 
 Each project folder contains:
