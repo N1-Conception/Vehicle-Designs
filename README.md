@@ -4,7 +4,7 @@
 
 Welcome to my collection of embedded vehicle designs created using SolidWorks. This repository serves as a showcase of my skills in mechanical design, 3D modeling, and embedded systems integration.
 
-
+ ![Project‑name](./display.png)  
 
 
 ## 🎯 Purpose
