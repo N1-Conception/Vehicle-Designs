@@ -10,6 +10,7 @@ The model reflects real-world design intent, emphasizing **structural integrity,
 
 ---
 
+
 ## 🎯 Objectives of the Design
 
 * Develop a robust off-road buggy structure.
