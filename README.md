@@ -18,6 +18,7 @@ This repository is part of my personal portfolio, aiming to:
 - Provide a visual and technical reference for potential collaborators or employers.
 
 
+
 ## 🛠️ Projects Overview
 
 Each project folder contains:
